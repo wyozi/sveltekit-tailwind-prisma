@@ -1,10 +1,10 @@
 <table>
 <tr>
-<td>
+<td valign="top">
 <h1>Development</h1>
 Start dev: <code>pnpm dev</code>
 </td>
-<td>
+<td valign="top">
 <h1>Database</h1>
 
 - Copy <code>.env.template</code> to <code>.env</code> and add connection string
